@@ -1,0 +1,5 @@
+A POC about tracking users, that block cookies, using HTTP redirect.
+
+@see http://elie.im/blog/security/tracking-users-that-block-cookies-with-a-http-redirect/
+
+author: { tom at 0x101.com }
